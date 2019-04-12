@@ -7,6 +7,8 @@ import org.springframework.stereotype.Component;
 
 /**
  * Created by Administrator on 2019/3/25 0025.
+ *
+ *  在 flowable 容器启动后，进行操作
  */
 @Aspect
 @Component
